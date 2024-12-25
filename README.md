@@ -26,6 +26,6 @@ This project is a comprehensive solution for managing graduation theses, designe
   - Node.js 16+
   - React Native 0.70+
 - **Database**:
-  - PostgreSQL
+  - MySQL
 - **Other Tools**:
   - Firebase
